@@ -1,1 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chocolate Chip Cookies Recipe</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #fff8f0;
+            color: #4b2e2e;
+            margin: 0;
+            padding: 0;
+        }
 
+        .container {
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: #a0522d;
+            text-align: center;
+            margin-bottom: 10px;
+        }
+
+        h2 {
+            color: #8b4513;
+            border-bottom: 2px solid #f4e1d2;
+            padding-bottom: 5px;
+        }
+
+        p {
+            font-size: 1.1em;
+            line-height: 1.6;
+        }
+
+        ul, ol {
+            margin-left: 20px;
+            padding-left: 10px;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                margin: 20px;
+                padding: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Chocolate Chip Cookies</h1>
+
+        <p>This classic chocolate chip cookie recipe makes soft, chewy, and delicious cookies that are perfect for any occasion. Great with a glass of milk or as a sweet treat on their own!</p>
+
+        <h2>Ingredients</h2>
+        <ul>
+            <li>1 cup unsalted butter, softened</li>
+            <li>1 cup white sugar</li>
+            <li>1 cup packed brown sugar</li>
+            <li>2 eggs</li>
+            <li>2 teaspoons vanilla extract</li>
+            <li>3 cups all-purpose flour</li>
+            <li>1 teaspoon baking soda</li>
+            <li>2 teaspoons hot water</li>
+            <li>1/2 teaspoon salt</li>
+            <li>2 cups semisweet chocolate chips</li>
+            <li>1 cup chopped walnuts (optional)</li>
+        </ul>
+
+        <h2>Method</h2>
+        <ol>
+            <li>Preheat oven to 350°F (175°C).</li>
+            <li>Cream together the butter, white sugar, and brown sugar until smooth.</li>
+            <li>Beat in the eggs one at a time, then stir in the vanilla.</li>
+            <li>Dissolve baking soda in hot water and add to the batter along with salt.</li>
+            <li>Stir in flour, chocolate chips, and nuts.</li>
+            <li>Drop large spoonfuls of dough onto ungreased pans.</li>
+            <li>Bake for about 10 minutes in the preheated oven, or until edges are nicely browned.</li>
+        </ol>
+    </div>
+</body>
+</html>
